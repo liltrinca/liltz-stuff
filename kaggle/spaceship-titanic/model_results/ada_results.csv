@@ -1,0 +1,134 @@
+,0,1,2
+0,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.1)",0.7892466935020126,0.9668264621284756
+1,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.1, n_estimators=75)",0.7892466935020126,0.9668264621284756
+2,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.1, n_estimators=100)",0.7875215641173088,0.9668264621284756
+3,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.1, n_estimators=125)",0.7903967797584819,0.9668264621284756
+4,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.1, n_estimators=150)",0.7903967797584819,0.9668264621284756
+5,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.25)",0.7886716503737781,0.9668264621284756
+6,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.25, n_estimators=75)",0.7883841288096607,0.9668264621284756
+7,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.25, n_estimators=100)",0.7872340425531915,0.9668264621284756
+8,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.25, n_estimators=125)",0.7901092581943646,0.9668264621284756
+9,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.25, n_estimators=150)",0.7892466935020126,0.9668264621284756
+10,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.5)",0.7863714778608396,0.9668264621284756
+11,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.5, n_estimators=75)",0.78953421506613,0.9668264621284756
+12,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.5, n_estimators=100)",0.78953421506613,0.9668264621284756
+13,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.5, n_estimators=125)",0.7860839562967222,0.9668264621284756
+14,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.5, n_estimators=150)",0.7892466935020126,0.9668264621284756
+15,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.75)",0.7909718228867165,0.9668264621284756
+16,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.75, n_estimators=75)",0.7903967797584819,0.9668264621284756
+17,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.75, n_estimators=100)",0.7878090856814262,0.9668264621284756
+18,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.75, n_estimators=125)",0.7872340425531915,0.9668264621284756
+19,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.75, n_estimators=150)",0.7875215641173088,0.9668264621284756
+20,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=1)",0.7883841288096607,0.9668264621284756
+21,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=1, n_estimators=75)",0.78953421506613,0.9668264621284756
+22,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=1, n_estimators=100)",0.7863714778608396,0.9668264621284756
+23,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=1, n_estimators=125)",0.7880966072455434,0.9668264621284756
+24,"AdaBoostClassifier(algorithm='SAMME',
+                   estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=1, n_estimators=150)",0.7866589994249569,0.9668264621284756
+25,"AdaBoostClassifier(estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.1)",0.7880966072455434,0.9668264621284756
+26,"AdaBoostClassifier(estimator=RandomForestClassifier(criterion='entropy',
+                                                    n_estimators=75,
+                                                    random_state=28),
+                   learning_rate=0.1, n_estimators=75)",0.7883841288096607,0.9668264621284756

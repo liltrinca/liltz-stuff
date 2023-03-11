@@ -1,0 +1,320 @@
+0,1,2,3
+"KNeighborsClassifier(leaf_size=15, n_neighbors=3, p=1)",0.7642323174238068,0.8604026845637583,0.8528701253882434
+"KNeighborsClassifier(leaf_size=15, n_neighbors=3, p=1, weights='distance')",0.7573317998849913,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(leaf_size=15, n_neighbors=3)",0.7650948821161587,0.8596356663470758,0.8531001955596457
+"KNeighborsClassifier(leaf_size=15, n_neighbors=3, weights='distance')",0.7590569292696953,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(leaf_size=15, p=1)",0.778320874065555,0.8352828379674018,0.8346945818474635
+"KNeighborsClassifier(leaf_size=15, p=1, weights='distance')",0.7742955721679126,0.9664429530201343,0.9581272288047855
+KNeighborsClassifier(leaf_size=15),0.7708453133985049,0.8348993288590604,0.8325089152191418
+"KNeighborsClassifier(leaf_size=15, weights='distance')",0.769120184013801,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(leaf_size=15, n_neighbors=7, p=1)",0.7780333525014376,0.8210930009587728,0.8250316346485678
+"KNeighborsClassifier(leaf_size=15, n_neighbors=7, p=1, weights='distance')",0.7763082231167338,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(leaf_size=15, n_neighbors=7)",0.7794709603220241,0.8230105465004793,0.8244564592200622
+"KNeighborsClassifier(leaf_size=15, n_neighbors=7, weights='distance')",0.7788959171937896,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(leaf_size=15, n_neighbors=10, p=1)",0.7817711328349626,0.8193672099712368,0.8166340733923847
+"KNeighborsClassifier(leaf_size=15, n_neighbors=10, p=1, weights='distance')",0.7829212190914319,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(leaf_size=15, n_neighbors=10)",0.7786083956296722,0.8166826462128476,0.814333371678362
+"KNeighborsClassifier(leaf_size=15, n_neighbors=10, weights='distance')",0.7757331799884991,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(n_neighbors=3, p=1)",0.7642323174238068,0.8604026845637583,0.8528701253882434
+"KNeighborsClassifier(n_neighbors=3, p=1, weights='distance')",0.7573317998849913,0.9658676893576222,0.9542160358909467
+KNeighborsClassifier(n_neighbors=3),0.7650948821161587,0.8596356663470758,0.8531001955596457
+"KNeighborsClassifier(n_neighbors=3, weights='distance')",0.7590569292696953,0.9658676893576222,0.9542160358909467
+KNeighborsClassifier(p=1),0.778320874065555,0.8352828379674018,0.8346945818474635
+"KNeighborsClassifier(p=1, weights='distance')",0.7742955721679126,0.9664429530201343,0.9581272288047855
+KNeighborsClassifier(),0.7708453133985049,0.8348993288590604,0.8325089152191418
+KNeighborsClassifier(weights='distance'),0.769120184013801,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(n_neighbors=7, p=1)",0.7780333525014376,0.8210930009587728,0.8250316346485678
+"KNeighborsClassifier(n_neighbors=7, p=1, weights='distance')",0.7763082231167338,0.9668264621284756,0.9604279305188083
+KNeighborsClassifier(n_neighbors=7),0.7794709603220241,0.8230105465004793,0.8244564592200622
+"KNeighborsClassifier(n_neighbors=7, weights='distance')",0.7788959171937896,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(n_neighbors=10, p=1)",0.7817711328349626,0.8193672099712368,0.8166340733923847
+"KNeighborsClassifier(n_neighbors=10, p=1, weights='distance')",0.7829212190914319,0.9668264621284756,0.9607730357759117
+KNeighborsClassifier(n_neighbors=10),0.7786083956296722,0.8166826462128476,0.814333371678362
+"KNeighborsClassifier(n_neighbors=10, weights='distance')",0.7757331799884991,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(leaf_size=45, n_neighbors=3, p=1)",0.7642323174238068,0.8604026845637583,0.8528701253882434
+"KNeighborsClassifier(leaf_size=45, n_neighbors=3, p=1, weights='distance')",0.7573317998849913,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(leaf_size=45, n_neighbors=3)",0.7650948821161587,0.8596356663470758,0.8531001955596457
+"KNeighborsClassifier(leaf_size=45, n_neighbors=3, weights='distance')",0.7590569292696953,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(leaf_size=45, p=1)",0.778320874065555,0.8352828379674018,0.8346945818474635
+"KNeighborsClassifier(leaf_size=45, p=1, weights='distance')",0.7742955721679126,0.9664429530201343,0.9581272288047855
+KNeighborsClassifier(leaf_size=45),0.7708453133985049,0.8348993288590604,0.8325089152191418
+"KNeighborsClassifier(leaf_size=45, weights='distance')",0.769120184013801,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(leaf_size=45, n_neighbors=7, p=1)",0.7780333525014376,0.8210930009587728,0.8250316346485678
+"KNeighborsClassifier(leaf_size=45, n_neighbors=7, p=1, weights='distance')",0.7763082231167338,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(leaf_size=45, n_neighbors=7)",0.7794709603220241,0.8230105465004793,0.8244564592200622
+"KNeighborsClassifier(leaf_size=45, n_neighbors=7, weights='distance')",0.7788959171937896,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(leaf_size=45, n_neighbors=10, p=1)",0.7817711328349626,0.8193672099712368,0.8166340733923847
+"KNeighborsClassifier(leaf_size=45, n_neighbors=10, p=1, weights='distance')",0.7829212190914319,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(leaf_size=45, n_neighbors=10)",0.7786083956296722,0.8166826462128476,0.814333371678362
+"KNeighborsClassifier(leaf_size=45, n_neighbors=10, weights='distance')",0.7757331799884991,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(leaf_size=60, n_neighbors=3, p=1)",0.7642323174238068,0.8604026845637583,0.8528701253882434
+"KNeighborsClassifier(leaf_size=60, n_neighbors=3, p=1, weights='distance')",0.7573317998849913,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(leaf_size=60, n_neighbors=3)",0.7650948821161587,0.8596356663470758,0.8531001955596457
+"KNeighborsClassifier(leaf_size=60, n_neighbors=3, weights='distance')",0.7590569292696953,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(leaf_size=60, p=1)",0.778320874065555,0.8352828379674018,0.8346945818474635
+"KNeighborsClassifier(leaf_size=60, p=1, weights='distance')",0.7742955721679126,0.9664429530201343,0.9581272288047855
+KNeighborsClassifier(leaf_size=60),0.7708453133985049,0.8348993288590604,0.8325089152191418
+"KNeighborsClassifier(leaf_size=60, weights='distance')",0.769120184013801,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(leaf_size=60, n_neighbors=7, p=1)",0.7780333525014376,0.8210930009587728,0.8250316346485678
+"KNeighborsClassifier(leaf_size=60, n_neighbors=7, p=1, weights='distance')",0.7763082231167338,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(leaf_size=60, n_neighbors=7)",0.7794709603220241,0.8230105465004793,0.8244564592200622
+"KNeighborsClassifier(leaf_size=60, n_neighbors=7, weights='distance')",0.7788959171937896,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(leaf_size=60, n_neighbors=10, p=1)",0.7817711328349626,0.8193672099712368,0.8166340733923847
+"KNeighborsClassifier(leaf_size=60, n_neighbors=10, p=1, weights='distance')",0.7829212190914319,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(leaf_size=60, n_neighbors=10)",0.7786083956296722,0.8166826462128476,0.814333371678362
+"KNeighborsClassifier(leaf_size=60, n_neighbors=10, weights='distance')",0.7757331799884991,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, n_neighbors=3, p=1)",0.7622196664749856,0.8602109300095877,0.8529851604739446
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, n_neighbors=3, p=1,
+                     weights='distance')",0.7561817136285222,0.9656759348034516,0.9542160358909467
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, n_neighbors=3)",0.7639447958596894,0.8596356663470758,0.8526400552168412
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, n_neighbors=3,
+                     weights='distance')",0.7587694077055779,0.9656759348034516,0.9542160358909467
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, p=1)",0.7757331799884991,0.8364333652924257,0.8350396871045669
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, p=1,
+                     weights='distance')",0.7740080506037953,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15)",0.7731454859114434,0.835091083413231,0.8325089152191418
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, weights='distance')",0.7696952271420356,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, n_neighbors=7, p=1)",0.7794709603220241,0.8218600191754554,0.8257218451627747
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, n_neighbors=7, p=1,
+                     weights='distance')",0.7763082231167338,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, n_neighbors=7)",0.776595744680851,0.8197507190795782,0.8256068100770735
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, n_neighbors=7,
+                     weights='distance')",0.776595744680851,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, n_neighbors=10, p=1)",0.780333525014376,0.8170661553211889,0.816058897963879
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, n_neighbors=10, p=1,
+                     weights='distance')",0.7837837837837838,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, n_neighbors=10)",0.7777458309373203,0.8159156279961649,0.8150235821925688
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=15, n_neighbors=10,
+                     weights='distance')",0.7768832662449684,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='ball_tree', n_neighbors=3, p=1)",0.7627947096032203,0.8609779482262704,0.8539054411595537
+"KNeighborsClassifier(algorithm='ball_tree', n_neighbors=3, p=1,
+                     weights='distance')",0.7570442783208741,0.9660594439117929,0.9549062464051535
+"KNeighborsClassifier(algorithm='ball_tree', n_neighbors=3)",0.7636572742955722,0.8600191754554171,0.8532152306453469
+"KNeighborsClassifier(algorithm='ball_tree', n_neighbors=3, weights='distance')",0.7590569292696953,0.9660594439117929,0.9549062464051535
+"KNeighborsClassifier(algorithm='ball_tree', p=1)",0.7757331799884991,0.835666347075743,0.8344645116760612
+"KNeighborsClassifier(algorithm='ball_tree', p=1, weights='distance')",0.7740080506037953,0.9664429530201343,0.9581272288047855
+KNeighborsClassifier(algorithm='ball_tree'),0.7714203565267395,0.835091083413231,0.8330840906476475
+"KNeighborsClassifier(algorithm='ball_tree', weights='distance')",0.769120184013801,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='ball_tree', n_neighbors=7, p=1)",0.7806210465784934,0.8212847555129434,0.8241113539629586
+"KNeighborsClassifier(algorithm='ball_tree', n_neighbors=7, p=1,
+                     weights='distance')",0.7768832662449684,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='ball_tree', n_neighbors=7)",0.777458309373203,0.8201342281879195,0.8248015644771656
+"KNeighborsClassifier(algorithm='ball_tree', n_neighbors=7, weights='distance')",0.7768832662449684,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='ball_tree', n_neighbors=10, p=1)",0.7806210465784934,0.8176414189837009,0.8169791786494881
+"KNeighborsClassifier(algorithm='ball_tree', n_neighbors=10, p=1,
+                     weights='distance')",0.7829212190914319,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='ball_tree', n_neighbors=10)",0.7771707878090857,0.8147651006711409,0.8166340733923847
+"KNeighborsClassifier(algorithm='ball_tree', n_neighbors=10, weights='distance')",0.7777458309373203,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, n_neighbors=3, p=1)",0.761644623346751,0.8604026845637583,0.8531001955596457
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, n_neighbors=3, p=1,
+                     weights='distance')",0.7564692351926394,0.9660594439117929,0.9545611411480501
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, n_neighbors=3)",0.7630822311673375,0.8604026845637583,0.8524099850454389
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, n_neighbors=3,
+                     weights='distance')",0.7593444508338125,0.9660594439117929,0.9545611411480501
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, p=1)",0.7768832662449684,0.835666347075743,0.8338893362475555
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, p=1,
+                     weights='distance')",0.7734330074755607,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45)",0.7725704427832087,0.8347075743048897,0.8322788450477395
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, weights='distance')",0.7688326624496837,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, n_neighbors=7, p=1)",0.781196089706728,0.8214765100671141,0.8259519153341769
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, n_neighbors=7, p=1,
+                     weights='distance')",0.7771707878090857,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, n_neighbors=7)",0.777458309373203,0.8212847555129434,0.8239963188772575
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, n_neighbors=7,
+                     weights='distance')",0.777458309373203,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, n_neighbors=10, p=1)",0.7814836112708453,0.8172579098753595,0.8174393189922926
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, n_neighbors=10, p=1,
+                     weights='distance')",0.7829212190914319,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, n_neighbors=10)",0.7786083956296722,0.8174496644295302,0.8164040032209824
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=45, n_neighbors=10,
+                     weights='distance')",0.7771707878090857,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, n_neighbors=3, p=1)",0.761644623346751,0.8604026845637583,0.8531001955596457
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, n_neighbors=3, p=1,
+                     weights='distance')",0.7564692351926394,0.9660594439117929,0.9545611411480501
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, n_neighbors=3)",0.7630822311673375,0.8604026845637583,0.8524099850454389
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, n_neighbors=3,
+                     weights='distance')",0.7593444508338125,0.9660594439117929,0.9545611411480501
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, p=1)",0.7768832662449684,0.835666347075743,0.8338893362475555
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, p=1,
+                     weights='distance')",0.7734330074755607,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60)",0.7725704427832087,0.8347075743048897,0.8322788450477395
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, weights='distance')",0.7688326624496837,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, n_neighbors=7, p=1)",0.781196089706728,0.8214765100671141,0.8259519153341769
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, n_neighbors=7, p=1,
+                     weights='distance')",0.7771707878090857,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, n_neighbors=7)",0.777458309373203,0.8212847555129434,0.8239963188772575
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, n_neighbors=7,
+                     weights='distance')",0.777458309373203,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, n_neighbors=10, p=1)",0.7814836112708453,0.8172579098753595,0.8174393189922926
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, n_neighbors=10, p=1,
+                     weights='distance')",0.7829212190914319,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, n_neighbors=10)",0.7786083956296722,0.8174496644295302,0.8164040032209824
+"KNeighborsClassifier(algorithm='ball_tree', leaf_size=60, n_neighbors=10,
+                     weights='distance')",0.7771707878090857,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, n_neighbors=3, p=1)",0.7630822311673375,0.8607861936720997,0.85252502013114
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, n_neighbors=3, p=1,
+                     weights='distance')",0.7567567567567568,0.9656759348034516,0.9542160358909467
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, n_neighbors=3)",0.7639447958596894,0.8594439117929051,0.8522949499597378
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, n_neighbors=3,
+                     weights='distance')",0.7587694077055779,0.9656759348034516,0.9542160358909467
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, p=1)",0.7751581368602645,0.8360498561840843,0.8358449327044749
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, p=1, weights='distance')",0.773720529039678,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15)",0.7717078780908568,0.8354745925215724,0.8325089152191418
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, weights='distance')",0.7694077055779184,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, n_neighbors=7, p=1)",0.7800460034502588,0.8212847555129434,0.8252617048199701
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, n_neighbors=7, p=1,
+                     weights='distance')",0.7771707878090857,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, n_neighbors=7)",0.777458309373203,0.8195589645254074,0.8259519153341769
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, n_neighbors=7,
+                     weights='distance')",0.777458309373203,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, n_neighbors=10, p=1)",0.7794709603220241,0.8170661553211889,0.8167491084780858
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, n_neighbors=10, p=1,
+                     weights='distance')",0.7832087406555491,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, n_neighbors=10)",0.7780333525014376,0.8164908916586769,0.8149085471068676
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=15, n_neighbors=10,
+                     weights='distance')",0.7768832662449684,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='kd_tree', n_neighbors=3, p=1)",0.7630822311673375,0.8607861936720997,0.8535603359024503
+"KNeighborsClassifier(algorithm='kd_tree', n_neighbors=3, p=1,
+                     weights='distance')",0.7573317998849913,0.9660594439117929,0.9549062464051535
+"KNeighborsClassifier(algorithm='kd_tree', n_neighbors=3)",0.7636572742955722,0.8598274209012464,0.8532152306453469
+"KNeighborsClassifier(algorithm='kd_tree', n_neighbors=3, weights='distance')",0.7590569292696953,0.9660594439117929,0.9549062464051535
+"KNeighborsClassifier(algorithm='kd_tree', p=1)",0.7748706152961472,0.835666347075743,0.8357298976187737
+"KNeighborsClassifier(algorithm='kd_tree', p=1, weights='distance')",0.7740080506037953,0.9664429530201343,0.9581272288047855
+KNeighborsClassifier(algorithm='kd_tree'),0.7708453133985049,0.8352828379674018,0.8330840906476475
+"KNeighborsClassifier(algorithm='kd_tree', weights='distance')",0.7685451408855665,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='kd_tree', n_neighbors=7, p=1)",0.7806210465784934,0.8209012464046022,0.8248015644771656
+"KNeighborsClassifier(algorithm='kd_tree', n_neighbors=7, p=1,
+                     weights='distance')",0.7771707878090857,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='kd_tree', n_neighbors=7)",0.7777458309373203,0.8195589645254074,0.8250316346485678
+"KNeighborsClassifier(algorithm='kd_tree', n_neighbors=7, weights='distance')",0.7771707878090857,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='kd_tree', n_neighbors=10, p=1)",0.7800460034502588,0.8182166826462128,0.8170942137351892
+"KNeighborsClassifier(algorithm='kd_tree', n_neighbors=10, p=1,
+                     weights='distance')",0.7826336975273146,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='kd_tree', n_neighbors=10)",0.777458309373203,0.8149568552253116,0.816864143563787
+"KNeighborsClassifier(algorithm='kd_tree', n_neighbors=10, weights='distance')",0.7777458309373203,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, n_neighbors=3, p=1)",0.7622196664749856,0.8605944391179291,0.8531001955596457
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, n_neighbors=3, p=1,
+                     weights='distance')",0.7570442783208741,0.9660594439117929,0.9545611411480501
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, n_neighbors=3)",0.7633697527314549,0.8604026845637583,0.8524099850454389
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, n_neighbors=3,
+                     weights='distance')",0.7596319723979299,0.9660594439117929,0.9545611411480501
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, p=1)",0.7768832662449684,0.835091083413231,0.8345795467617624
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, p=1, weights='distance')",0.773720529039678,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45)",0.7725704427832087,0.8347075743048897,0.8323938801334407
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, weights='distance')",0.7688326624496837,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, n_neighbors=7, p=1)",0.781196089706728,0.8214765100671141,0.824341424134361
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, n_neighbors=7, p=1,
+                     weights='distance')",0.7771707878090857,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, n_neighbors=7)",0.777458309373203,0.8212847555129434,0.8239963188772575
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, n_neighbors=7,
+                     weights='distance')",0.777458309373203,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, n_neighbors=10, p=1)",0.7809085681426107,0.8168744007670182,0.8181295295064995
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, n_neighbors=10, p=1,
+                     weights='distance')",0.7826336975273146,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, n_neighbors=10)",0.7788959171937896,0.8174496644295302,0.8169791786494881
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=45, n_neighbors=10,
+                     weights='distance')",0.7771707878090857,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, n_neighbors=3, p=1)",0.7622196664749856,0.8605944391179291,0.8531001955596457
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, n_neighbors=3, p=1,
+                     weights='distance')",0.7570442783208741,0.9660594439117929,0.9545611411480501
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, n_neighbors=3)",0.7633697527314549,0.8604026845637583,0.8524099850454389
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, n_neighbors=3,
+                     weights='distance')",0.7596319723979299,0.9660594439117929,0.9545611411480501
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, p=1)",0.7768832662449684,0.835091083413231,0.8345795467617624
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, p=1, weights='distance')",0.773720529039678,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60)",0.7725704427832087,0.8347075743048897,0.8323938801334407
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, weights='distance')",0.7688326624496837,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, n_neighbors=7, p=1)",0.781196089706728,0.8214765100671141,0.824341424134361
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, n_neighbors=7, p=1,
+                     weights='distance')",0.7771707878090857,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, n_neighbors=7)",0.777458309373203,0.8212847555129434,0.8239963188772575
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, n_neighbors=7,
+                     weights='distance')",0.777458309373203,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, n_neighbors=10, p=1)",0.7809085681426107,0.8168744007670182,0.8181295295064995
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, n_neighbors=10, p=1,
+                     weights='distance')",0.7826336975273146,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, n_neighbors=10)",0.7788959171937896,0.8174496644295302,0.8169791786494881
+"KNeighborsClassifier(algorithm='kd_tree', leaf_size=60, n_neighbors=10,
+                     weights='distance')",0.7771707878090857,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, n_neighbors=3, p=1)",0.7642323174238068,0.8604026845637583,0.8528701253882434
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, n_neighbors=3, p=1,
+                     weights='distance')",0.7573317998849913,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, n_neighbors=3)",0.7650948821161587,0.8596356663470758,0.8531001955596457
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, n_neighbors=3,
+                     weights='distance')",0.7590569292696953,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, p=1)",0.778320874065555,0.8352828379674018,0.8346945818474635
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, p=1, weights='distance')",0.7742955721679126,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='brute', leaf_size=15)",0.7708453133985049,0.8348993288590604,0.8325089152191418
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, weights='distance')",0.769120184013801,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, n_neighbors=7, p=1)",0.7780333525014376,0.8210930009587728,0.8250316346485678
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, n_neighbors=7, p=1,
+                     weights='distance')",0.7763082231167338,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, n_neighbors=7)",0.7794709603220241,0.8230105465004793,0.8244564592200622
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, n_neighbors=7,
+                     weights='distance')",0.7788959171937896,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, n_neighbors=10, p=1)",0.7817711328349626,0.8193672099712368,0.8166340733923847
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, n_neighbors=10, p=1,
+                     weights='distance')",0.7829212190914319,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, n_neighbors=10)",0.7786083956296722,0.8166826462128476,0.814333371678362
+"KNeighborsClassifier(algorithm='brute', leaf_size=15, n_neighbors=10,
+                     weights='distance')",0.7757331799884991,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='brute', n_neighbors=3, p=1)",0.7642323174238068,0.8604026845637583,0.8528701253882434
+"KNeighborsClassifier(algorithm='brute', n_neighbors=3, p=1, weights='distance')",0.7573317998849913,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(algorithm='brute', n_neighbors=3)",0.7650948821161587,0.8596356663470758,0.8531001955596457
+"KNeighborsClassifier(algorithm='brute', n_neighbors=3, weights='distance')",0.7590569292696953,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(algorithm='brute', p=1)",0.778320874065555,0.8352828379674018,0.8346945818474635
+"KNeighborsClassifier(algorithm='brute', p=1, weights='distance')",0.7742955721679126,0.9664429530201343,0.9581272288047855
+KNeighborsClassifier(algorithm='brute'),0.7708453133985049,0.8348993288590604,0.8325089152191418
+"KNeighborsClassifier(algorithm='brute', weights='distance')",0.769120184013801,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='brute', n_neighbors=7, p=1)",0.7780333525014376,0.8210930009587728,0.8250316346485678
+"KNeighborsClassifier(algorithm='brute', n_neighbors=7, p=1, weights='distance')",0.7763082231167338,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='brute', n_neighbors=7)",0.7794709603220241,0.8230105465004793,0.8244564592200622
+"KNeighborsClassifier(algorithm='brute', n_neighbors=7, weights='distance')",0.7788959171937896,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='brute', n_neighbors=10, p=1)",0.7817711328349626,0.8193672099712368,0.8166340733923847
+"KNeighborsClassifier(algorithm='brute', n_neighbors=10, p=1, weights='distance')",0.7829212190914319,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='brute', n_neighbors=10)",0.7786083956296722,0.8166826462128476,0.814333371678362
+"KNeighborsClassifier(algorithm='brute', n_neighbors=10, weights='distance')",0.7757331799884991,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, n_neighbors=3, p=1)",0.7642323174238068,0.8604026845637583,0.8528701253882434
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, n_neighbors=3, p=1,
+                     weights='distance')",0.7573317998849913,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, n_neighbors=3)",0.7650948821161587,0.8596356663470758,0.8531001955596457
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, n_neighbors=3,
+                     weights='distance')",0.7590569292696953,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, p=1)",0.778320874065555,0.8352828379674018,0.8346945818474635
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, p=1, weights='distance')",0.7742955721679126,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='brute', leaf_size=45)",0.7708453133985049,0.8348993288590604,0.8325089152191418
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, weights='distance')",0.769120184013801,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, n_neighbors=7, p=1)",0.7780333525014376,0.8210930009587728,0.8250316346485678
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, n_neighbors=7, p=1,
+                     weights='distance')",0.7763082231167338,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, n_neighbors=7)",0.7794709603220241,0.8230105465004793,0.8244564592200622
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, n_neighbors=7,
+                     weights='distance')",0.7788959171937896,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, n_neighbors=10, p=1)",0.7817711328349626,0.8193672099712368,0.8166340733923847
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, n_neighbors=10, p=1,
+                     weights='distance')",0.7829212190914319,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, n_neighbors=10)",0.7786083956296722,0.8166826462128476,0.814333371678362
+"KNeighborsClassifier(algorithm='brute', leaf_size=45, n_neighbors=10,
+                     weights='distance')",0.7757331799884991,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, n_neighbors=3, p=1)",0.7642323174238068,0.8604026845637583,0.8528701253882434
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, n_neighbors=3, p=1,
+                     weights='distance')",0.7573317998849913,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, n_neighbors=3)",0.7650948821161587,0.8596356663470758,0.8531001955596457
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, n_neighbors=3,
+                     weights='distance')",0.7590569292696953,0.9658676893576222,0.9542160358909467
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, p=1)",0.778320874065555,0.8352828379674018,0.8346945818474635
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, p=1, weights='distance')",0.7742955721679126,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='brute', leaf_size=60)",0.7708453133985049,0.8348993288590604,0.8325089152191418
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, weights='distance')",0.769120184013801,0.9664429530201343,0.9581272288047855
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, n_neighbors=7, p=1)",0.7780333525014376,0.8210930009587728,0.8250316346485678
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, n_neighbors=7, p=1,
+                     weights='distance')",0.7763082231167338,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, n_neighbors=7)",0.7794709603220241,0.8230105465004793,0.8244564592200622
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, n_neighbors=7,
+                     weights='distance')",0.7788959171937896,0.9668264621284756,0.9604279305188083
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, n_neighbors=10, p=1)",0.7817711328349626,0.8193672099712368,0.8166340733923847
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, n_neighbors=10, p=1,
+                     weights='distance')",0.7829212190914319,0.9668264621284756,0.9607730357759117
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, n_neighbors=10)",0.7786083956296722,0.8166826462128476,0.814333371678362
+"KNeighborsClassifier(algorithm='brute', leaf_size=60, n_neighbors=10,
+                     weights='distance')",0.7757331799884991,0.9668264621284756,0.9607730357759117

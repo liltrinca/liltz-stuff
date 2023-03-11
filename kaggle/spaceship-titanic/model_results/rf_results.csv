@@ -1,0 +1,13 @@
+Model,val_ACC,train_ACC,3
+"RandomForestClassifier(n_estimators=50, random_state=28)",0.7837837837837838,0.9666347075743049,0.9606580006902106
+"RandomForestClassifier(n_estimators=75, random_state=28)",0.7878090856814262,0.9668264621284756,0.9606580006902106
+RandomForestClassifier(random_state=28),0.7880966072455434,0.9668264621284756,0.9607730357759117
+"RandomForestClassifier(n_estimators=150, random_state=28)",0.7883841288096607,0.9668264621284756,0.9607730357759117
+"RandomForestClassifier(criterion='entropy', n_estimators=50, random_state=28)",0.7880966072455434,0.9668264621284756,0.9607730357759117
+"RandomForestClassifier(criterion='entropy', n_estimators=75, random_state=28)",0.7906843013225991,0.9668264621284756,0.9607730357759117
+"RandomForestClassifier(criterion='entropy', random_state=28)",0.7886716503737781,0.9668264621284756,0.9607730357759117
+"RandomForestClassifier(criterion='entropy', n_estimators=150, random_state=28)",0.7889591719378953,0.9668264621284756,0.9607730357759117
+"RandomForestClassifier(criterion='log_loss', n_estimators=50, random_state=28)",0.7880966072455434,0.9668264621284756,0.9607730357759117
+"RandomForestClassifier(criterion='log_loss', n_estimators=75, random_state=28)",0.7906843013225991,0.9668264621284756,0.9607730357759117
+"RandomForestClassifier(criterion='log_loss', random_state=28)",0.7886716503737781,0.9668264621284756,0.9607730357759117
+"RandomForestClassifier(criterion='log_loss', n_estimators=150, random_state=28)",0.7889591719378953,0.9668264621284756,0.9607730357759117

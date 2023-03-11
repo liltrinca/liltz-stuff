@@ -1,0 +1,21 @@
+,Model,ACC
+0,"SVC(C=0.1, kernel='linear', random_state=28)",0.7949971247843588
+1,"SVC(C=0.1, kernel='poly', random_state=28)",0.5928694652098907
+2,"SVC(C=0.1, random_state=28)",0.7829212190914319
+3,"SVC(C=0.1, kernel='sigmoid', random_state=28)",0.60149511213341
+4,"SVC(C=0.325, kernel='linear', random_state=28)",0.7878090856814262
+5,"SVC(C=0.325, kernel='poly', random_state=28)",0.6032202415181138
+6,"SVC(C=0.325, random_state=28)",0.7860839562967222
+7,"SVC(C=0.325, kernel='sigmoid', random_state=28)",0.6023576768257619
+8,"SVC(C=0.55, kernel='linear', random_state=28)",0.785796434732605
+9,"SVC(C=0.55, kernel='poly', random_state=28)",0.6066705002875216
+10,"SVC(C=0.55, random_state=28)",0.7866589994249569
+11,"SVC(C=0.55, kernel='sigmoid', random_state=28)",0.6009200690051754
+12,"SVC(C=0.775, kernel='linear', random_state=28)",0.7849338700402531
+13,"SVC(C=0.775, kernel='poly', random_state=28)",0.6095457159286947
+14,"SVC(C=0.775, random_state=28)",0.7886716503737781
+15,"SVC(C=0.775, kernel='sigmoid', random_state=28)",0.6000575043128235
+16,"SVC(kernel='linear', random_state=28)",0.7889591719378953
+17,"SVC(kernel='poly', random_state=28)",0.6101207590569293
+18,SVC(random_state=28),0.7886716503737781
+19,"SVC(kernel='sigmoid', random_state=28)",0.5986198964922369
